@@ -2,7 +2,7 @@
 title: "Praktikum Struktur Data 2023 Ganjil dengan C"
 ---
 
-Kembali ke [Praktikum](../../../../../praktikum.qmd)
+Kembali ke [Praktikum](../../../../../semuahalaman/praktikum.qmd)
 
 ::: {.callout-warning}
 ## Perhatikan

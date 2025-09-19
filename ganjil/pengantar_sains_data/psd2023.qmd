@@ -2,7 +2,7 @@
 title: "Praktikum PSD (Pengantar Sains Data) 2023/2024 Semester Ganjil (Kurikulum 2020)"
 ---
 
-Kembali ke [Praktikum](../../../../praktikum.qmd)
+Kembali ke [Praktikum](../../../../semuahalaman/praktikum.qmd)
 
 # *Timeline* (modul per pertemuan)
 
