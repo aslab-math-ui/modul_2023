@@ -236,7 +236,7 @@ transpose([t_sys ; w_sys]) %rapikan format
 ```
 Cobalah jalankan kode di atas dan lihat hasilnya. selanjutnya bandingkan hasil dengan jawaban pada buku.
 
-![](rk_4sys.png)
+![](https://raw.githubusercontent.com/aslab-math-ui/asset/main/persamaan_diferensial_numerik/static/rk_4sys.png)
 
 ### Predictor-Corrector: Metode Adams-Bashforth-Moulton 2-step untuk sistem persamaan differential (vectorize)
 

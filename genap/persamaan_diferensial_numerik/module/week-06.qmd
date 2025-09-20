@@ -8,6 +8,6 @@ execute:
 
 Kembali ke [Persamaan Diferensial Numerik](../pdnum2023.qmd)
 
-- [Modul Skema Beda Hingga I.pdf](week-06/Modul%20Skema%20Beda%20Hingga%20I.pdf)
-- [Modul Skema Beda Hingga II.pdf](week-06/Modul%20Skema%20Beda%20Hingga%20II.pdf)
-- [Modul Skema Beda Hingga Transport.pdf](week-06/Modul%20Skema%20Beda%20Hingga%20Transport.pdf)
+- [Modul Skema Beda Hingga I.pdf](https://raw.githubusercontent.com/aslab-math-ui/asset/main/persamaan_diferensial_numerik/doc/modul_skema_beda_hingga_I.pdf)
+- [Modul Skema Beda Hingga II.pdf](https://raw.githubusercontent.com/aslab-math-ui/asset/main/persamaan_diferensial_numerik/doc/modul_skema_beda_hingga_II.pdf)
+- [Modul Skema Beda Hingga Transport.pdf](https://raw.githubusercontent.com/aslab-math-ui/asset/main/persamaan_diferensial_numerik/doc/modul_skema_beda_hingga_transport.pdf)

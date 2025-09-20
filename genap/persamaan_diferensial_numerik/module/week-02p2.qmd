@@ -102,7 +102,7 @@ title("Metode Euler")
 
 Saat dijalankan, akan muncul jendela pop-up yang berisi plot yang telah dibuat.
 
-![gambar pop up plot](2023-03-04-11-24-15.png)
+![gambar pop up plot](https://raw.githubusercontent.com/aslab-math-ui/asset/main/persamaan_diferensial_numerik/static/output_2023_w2_1.png)
 
 
 Penjelasan:
@@ -248,7 +248,7 @@ title('Perbandingan metode Runge-Kutta');
 
 
 
-![gambar pop up plot](2023-03-04-11-25-33.png)
+![gambar pop up plot](https://raw.githubusercontent.com/aslab-math-ui/asset/main/persamaan_diferensial_numerik/static/output_2023_w2_2.png)
 
 
 
