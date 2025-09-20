@@ -99,17 +99,17 @@ View(iris) #liat datanya di window baru
 str(iris) #informasi dan tipe data
 ```
 
-atau kalo mau import data dari file [Iris.csv](./Iris.csv) atau [Iris.xlsx](./Iris.xlsx)
+atau kalo mau import data dari file [Iris.csv](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/datasets/Iris.csv) atau [Iris.xlsx](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/datasets/Iris.xlsx)
 
 ```{r}
-df <- read.csv("./Iris.csv") #janlup dikasih tau parameternya path ya jadi bebas
+df <- read.csv("https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/datasets/Iris.csv") #janlup dikasih tau parameternya path ya jadi bebas
 ```
 
 atau pake package readr dan readxl pada R
 
 ```{r}
 library(readr)
-df <- read_csv("./Iris.csv")
+df <- read_csv("https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/datasets/Iris.csv")
 
 library(readxl)
 df_excel <- read_excel("./Iris.xlsx")
