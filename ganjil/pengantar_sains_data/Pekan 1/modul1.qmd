@@ -10,9 +10,9 @@ Versi *file* `.R` dari modul ini bisa diunduh: [Modul 1.R](./Modul%201.R)
 
 *Dataset* "Iris" yang digunakan di modul ini bisa langsung diakses melalui R, atau bisa juga diunduh:
 
-* [Iris.csv](./Iris.csv)
+* [Iris.csv](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/datasets/Iris.csv)
 
-* [Iris.xlsx](./Iris.xlsx)
+* [Iris.xlsx](https://raw.githubusercontent.com/aslab-math-ui/asset/main/pengantar_sains_data/datasets/Iris.xlsx)
 
 # PART 1: Operasi Dasar
 
